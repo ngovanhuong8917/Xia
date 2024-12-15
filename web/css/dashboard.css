@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: system-ui,sans-serif;
+    font-size: 16px;
+    line-height: 1.7;
+    color:blueviolet;
+    background-color:aliceblue;
+}
+h1{
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+aside{
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    padding: 1rem;
+    width: 80px;
+}
+p{
+    margin-bottom: 1.5rem;
+}
